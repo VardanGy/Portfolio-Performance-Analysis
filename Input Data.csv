@@ -1,0 +1,20 @@
+Date,Valeur,Ticker,Achat/Vente,Prix,Quantite
+05/01/2024,Apple,AAPL,Achat,181.1,30
+12/01/2024,Procter & Gamble,PG,Achat,150.4,50
+16/01/2024,General Motors,GM,Achat,35.4,100
+17/01/2024,Nvidia,NVDA,Achat,56,95
+26/01/2024,ExxonMobil,XOM,Achat,103,50
+09/02/2024,Amazon,AMZN,Achat,174,25
+14/02/2024,Tesla,TSLA,Achat,188,37
+23/02/2024,Chevron,CVX,Achat,155,37
+25/03/2024,Apple,AAPL,Vente,171,16
+27/03/2024,Kellogg's,K,Achat,56,50
+06/05/2024,Alphabet,GOOG,Achat,169.5,30
+13/06/2024,Procter & Gamble,PG,Vente,166,30
+15/06/2024,Walmart,WMT,Achat,67.2,45
+10/07/2024,Nvidia,NVDA,Vente,133,25
+25/07/2024,General Motors,GM,Vente,45,47
+29/07/2024,Microsoft,MSFT,Achat,426,8
+13/09/2024,Kellogg's,K,Vente,80.5,20
+01/10/2024,ExxonMobil,XOM,Achat,118,20
+20/11/2024,Walmart,WMT,Vente,87,23
