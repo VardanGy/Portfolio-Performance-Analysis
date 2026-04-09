@@ -23,6 +23,6 @@ Le fichier d'entrée doit être un .csv avec les colonnes suivantes, séparées 
 
 
 Paramètres à ajuster en fonction des préférences dans main.py :
-pythondata_file = 'Input_Data.csv'   # Nom de votre fichier de transactions
-capital = 50000                 # Capital de départ disponible (en €/$)
-benchmark_ticker = '^GSPC'      # Indice de référence ('^GSPC' = S&P 500)
+- pythondata_file = 'Input_Data.csv'   # Nom de votre fichier de transactions
+- capital = 50000                 # Capital de départ disponible (en €/$)
+- benchmark_ticker = '^GSPC'      # Indice de référence ('^GSPC' = S&P 500)
