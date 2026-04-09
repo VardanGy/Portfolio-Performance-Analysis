@@ -10,3 +10,13 @@ Structure du projet :
 
 - Input_Data.csv       # Exemple de fichier de transactions
 - Input_Data_2.csv     # Exemple de fichier de transactions
+
+
+Format du fichier d'input :
+Le fichier d'entrée doit être un .csv avec les colonnes suivantes, séparées par des virgules :
+- Date -> string -> Date de la transaction (JJ/MM/AAAA)
+- Valeur -> string -> Nom complet de l'entreprise
+- Ticker -> string -> Symbole boursier Yahoo Finance
+- Achat/Vente -> string -> Type d'opération
+- Prix -> float -> Prix unitaire au moment de l'ordre
+- Quantite -> int -> Nombre de titres échangés
